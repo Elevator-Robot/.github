@@ -15,11 +15,5 @@
 
 ---
 
-👩‍💻 **Where can you find our docs?**
-> 📚 Head over to the [Wiki](https://github.com/ElevatorRobot/wiki).
-> 💬 Pro tip: Read through the comments in the code—we’re not saying they’re great, but they’re there.
-
----
-
 > **"Accelerating Innovation, Together."**
 
