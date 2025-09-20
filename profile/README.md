@@ -1,19 +1,10 @@
-# 🚀 ElevatorRobot
+# Elevator Robot 🤖  
 
----
+### What we’re about  
+Elevator Robot is a small team of freelancers specializing in **custom web apps, websites, and AI/ML solutions**. We don’t just build—we also **teach and train**, helping others understand and apply modern technologies in practical ways.  
 
-🙋‍♀️ **What is ElevatorRobot all about?**
-> We’re a small team creating quirky software and experimenting with Frankenstein projects.
+Alongside client work, we create and release our own experimental projects—because innovation is as much about exploration as delivery.  
 
----
+If you have an idea, we can help bring it to life—whether it’s a **website, an app, or an AI/ML-powered solution**.  
 
-🌈 **How can you get involved?**
-> Got ideas? Found a bug? Just want to say hi? 
-> - **💡 Ideas**: Open an issue and tell us what’s on your mind.
-> - **🐛 Bugs**: Help squash them by reporting or fixing them.
-> - **🎉 Collaboration**: Submit a pull request and let’s innovate together.
-
----
-
-> **"Accelerating Innovation, Together."**
-
+👉 Explore our work and get in touch at **[elevator-robot.com](https://elevator-robot.com)**  
